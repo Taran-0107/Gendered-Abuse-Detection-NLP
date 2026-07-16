@@ -38,6 +38,32 @@ Our objective was to build models capable of understanding multilingual abusive 
 
 ---
 
+## 📸 Model Results
+
+<table>
+<tr>
+<td align="center">
+<b>LSTM Architecture</b><br>
+<img src="images/lstm.png" width="450">
+</td>
+<td align="center">
+<b>Confusion Matrix</b><br>
+<img src="images/confusion matrix.png" width="450">
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>Model Accuracy</b><br>
+<img src="images/accuracy.png" width="450">
+</td>
+<td align="center">
+<b>Classification Report</b><br>
+<img src="images/report.png" width="450">
+</td>
+</tr>
+</table>
+
 # Dataset
 
 The multilingual dataset contains social media posts collected from Twitter and Instagram.
